@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: royalblue;
+}
+
+i{
+    margin: 10px;
+}
+.wrapper{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.work{
+    margin: 50px 0px;
+    text-align: right;
+    padding: 10px;
+    background-color: royalblue;
+}
+
+.work p{
+    text-transform: uppercase;
+    font-weight: 700;
+    display: inline;
+    padding: 11px;
+    margin-right: 45px;
+    background-color: white;
+
+}
+
+.container{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+}
+
+.info{
+    float: left;
+}
+
+.name{
+    text-transform: uppercase;
+    font-size: 35px;
+    font-weight: 7000;
+    margin-bottom: 10px;
+}
+
+.fa-user-ninja{
+    font-size: 100px;
+}
+
+.content{
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+}
+
+.content div{
+    margin: 10px 0;
+
+}
+
+.content p, strong{
+    color: black;
+}
+h4{
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.target{
+    
+}
+
+.education{
+
+}
+
+.school{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px !important;
+}
+
+.skill{
+    display: grid;
+
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+.skill div{
+    margin: 1px !important;
+}
+
+.exp ul{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.skill strong{
+    font-size: 15px;
+}
+
+.Co{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+

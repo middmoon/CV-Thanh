@@ -1,0 +1,1 @@
+alert('CV của Nguyễn Minh Thành')
